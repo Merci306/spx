@@ -1,0 +1,1 @@
+ wget "https://api.alternative.me/fng/?limit=0&format=csv" -O fgi_data.csv
